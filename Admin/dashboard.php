@@ -19,7 +19,7 @@ if (strlen($_SESSION['hbmsaid']==0)) {
 <body>
     <div id="header">
         <center>
-            <img src="admin/images/adminLogo.png" alt="adminLogo" id="adminLogo"><br>Admin Panel
+            <img src="admin/adminLogo.png" alt="adminLogo" id="adminLogo"><br>Admin Panel
         </center>
 
     </div>
